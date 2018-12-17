@@ -2,7 +2,23 @@ body {
 	font-family: verdana;
 	font-size: 95%;
 	#text-align: center;
+	
+	#padding-top: 25px;
 	padding-left: 100px;
 	padding-right: 100px;
-	#padding: 100px;
+	}
+
+h1 {
+	text-align: center;
+	}
+	
+h2 {
+	margin-bottom: 0;
+	}
+	
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
 	}
